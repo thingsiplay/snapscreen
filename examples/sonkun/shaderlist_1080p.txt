@@ -1,0 +1,9 @@
+~/.config/retroarch/shaders/shaders_slang/nearest.slangp
+~/.config/retroarch/shaders/shaders_slang/crt/crt-guest-advanced-ntsc.slangp
+~/.config/retroarch/shaders/shaders_slang/crt/newpixie-crt.slangp
+~/.config/retroarch/shaders/shaders_slang/presets/crt-geom-deluxe-ntsc-adaptive.slangp
+~/.config/retroarch/shaders/shaders_slang/presets/crt-royale-ntsc-svideo.slangp
+~/.config/retroarch/shaders/shaders_slang/presets/crt-hyllian-curvature-ntsc.slangp
+~/.config/retroarch/shaders/shaders_slang/sonkun/1080p/01-crt-guest-advanced-ntsc-slotmask-neutral-composite.slangp
+~/.config/retroarch/shaders/shaders_slang/sonkun/1080p/02-crt-guest-advanced-ntsc-slotmask-neutral-s-video.slangp
+~/.config/retroarch/shaders/shaders_slang/sonkun/1080p/03-crt-guest-advanced-ntsc-slotmask-neutral-rgb.slangp

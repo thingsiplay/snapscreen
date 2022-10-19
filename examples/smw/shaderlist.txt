@@ -1,0 +1,2 @@
+~/.config/retroarch/shaders/shaders_slang/nearest.slangp
+~/.config/retroarch/shaders/shaders_slang/presets/scalefx+rAA+aa.slangp

@@ -1,0 +1,1 @@
+~/.config/retroarch/shaders/shaders_slang/nearest.slangp
